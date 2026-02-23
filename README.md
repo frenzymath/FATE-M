@@ -20,7 +20,7 @@ For users' convenience, we provide a JSON file (**FATE-M.json**) where each entr
 - Benchmark source (FATE-M). 
 
 ## Lean Toolchain
-The initial version of this benchmark uses `leanprover/lean4:v4.16.0`. This may change in future updates.
+The initial version of this benchmark uses `leanprover/lean4:v4.16.0`. For each supported minor version of Lean, a corresponding and updated iteration of the benchmark is available via the repository's tags.
 
 ## Additional Information  
 This is a refactored version of the benchmark referenced in the paper [**REAL-Prover: Retrieval-Augmented Lean Prover for Mathematical Reasoning**](https://arxiv.org/abs/2505.20613).  
